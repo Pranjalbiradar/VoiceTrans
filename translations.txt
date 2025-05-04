@@ -1,0 +1,156 @@
+Original: hi
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hi
+Translated: नमस्ते
+
+Original: hi
+Translated: नमस्ते
+
+Original: how are you
+Translated: आप कैसे हैं
+
+Original: hello
+Translated: नमस्ते
+
+Original: hi
+Translated: नमस्ते
+
+Original: hi
+Translated: नमस्ते
+
+Original: hi
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hi
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: how are you
+Translated: आप कैसे हैं
+
+Original: hi
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: Bonjour
+
+Original: hello
+Translated: Bonjour
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: Bonjour
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: how are you?
+Translated: आप कैसे हैं?
+
+Original: kya kar rahe ho tum?
+Translated: Que fais-tu?
+
+Original: aap ne khana kha liya?
+Translated: Have you taken meal?
+
+Original: हेलो
+Translated: Hello
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: I hate you
+Translated: मुझे आपसे नफ़रत है
+
+Original: hello
+Translated: नमस्ते
+
+Original: what are you doing
+Translated: आप क्या कर रहे हो
+
+Original: excuse me
+Translated: माफ़ करें
+
+Original: HELLO
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: how
+Translated: कैसे
+
+Original: how are you
+Translated: आप कैसे हैं
+
+Original: where are you
+Translated: où es-tu
+
+Original: oui tout
+Translated: Yes everything
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: hello
+Translated: नमस्ते
+
+Original: image
+Translated: छवि
+
+Original: image processing
+Translated: मूर्ति प्रोद्योगिकी
+
+Original: image
+Translated: छवि
+
+Original: image
+Translated: छवि
+
